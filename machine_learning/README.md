@@ -5,3 +5,9 @@
 - Object function and Delta Rule
 - Activation Function
 - Multi-Layer Perceptron
+## Deep Learning
+- Why becomes Deep Learning popular?
+- Feature Learning
+- DMLP(Deep MLP)
+- Convolution NN
+- Generative Model
