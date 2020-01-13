@@ -11,3 +11,7 @@
 - DMLP(Deep MLP)
 - Convolution NN
 - Generative Model
+## Optimization
+- Objective function
+- Optimization for improvement performance
+- Regularization
