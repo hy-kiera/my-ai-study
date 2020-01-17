@@ -15,3 +15,7 @@
 - Objective function
 - Optimization for improvement performance
 - Regularization
+## Unsupervised Learning
+- Clustering
+- Density estimation
+- Spatial transformation
