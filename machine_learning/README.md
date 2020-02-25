@@ -19,3 +19,7 @@
 - Clustering
 - Density estimation
 - Spatial transformation
+## RNN(Recurrent Neural Network)
+- Sequential data
+- RNN
+- LSTM
