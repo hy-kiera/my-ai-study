@@ -23,3 +23,9 @@
 - Sequential data
 - RNN
 - LSTM
+## Reinforcement Learning
+- Principles and Properties of RL
+- Policy and Value function
+- Dynamic programming
+- Monte Carlo method
+- Temporal Difference learning
