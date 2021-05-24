@@ -8,3 +8,6 @@
 
 ## CSE4007 Artificial Intelligence in Hanyang Univ.
 [hy-kiera/artificial-intelligence](https://github.com/hy-kiera/artificial-intelligence)
+
+## CSE4048 Deep Learning in Hanyang Univ.
+[termproject/](https://github.com/hy-kiera/my-ai-study/tree/master/digit_classifier)
