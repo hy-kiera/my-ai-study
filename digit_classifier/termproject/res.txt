@@ -1,0 +1,11 @@
+Name                     batch_size  num_epochs train_data channels                 n_nodes    time         best acc(valid)       best acc(train)     stochastic
+MyCNN_5_22_12_47_34      100         200        330960     [24,32,64,64,96]         [128,128]  about 2h     0.8833 (64th epoch)                       o
+
+MyCNN_5_18_11_25_6       50          200        330960     [24,32,64,64,96]         [128,128]  about 2h     0.8458 (55th epoch)
+MyCNN_5_17_15_12_6       100         200        330960     [24,32,64,64,96]         [128,128]  about 2h     0.8947 (105th epoch)  0.9544 (105 epoch)
+
+MyCNN_5_17_11_50_32      100         200        100000     [24,32,64,64,96]         [128,128]  about 1h     0.8037 (175th epoch)
+MyCNN_5_17_12_24_45      100         200        100000     [16,32,64,64,128]        [128,128]  about 1h     0.1113 (no update)
+
+MyCNN_16_13_46_51_case1  24          100        150000     [16,32,32,64,64,128,128] [256,128]  about 2h     0.113  (no update)
+MyCNN_16_15_53_50_case2  24          100        150000     [16,16,32,64,64,96,128]  [128,128]  about 2.5h   0.1127 (no update)
